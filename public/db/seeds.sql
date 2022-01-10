@@ -1,5 +1,6 @@
-INSERT INTO 'recipes' ('id', 'user_id', 'food_group_id', 'recipes_name', 'ingridients')
-VALUES (1,1,'Breackfast'),
+
+INSERT INTO user_accounts (username, email, password_)
+VALUES ('samgeb','samgeb@gmail.com','Breackfast!'),
        (1,1,'Lunch'),
        (1,1,'Dinner'),
        (1,1,'Dessert'),
